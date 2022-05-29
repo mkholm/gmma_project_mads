@@ -1,0 +1,1315 @@
+[1] "Using scanning varianble = -5"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -5.000000  "
+[1] "Generated 76 ddGs with observed mean 0.234 and std 2.250"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 126 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -2.92, 1.48"
+[1] "Printed correlation af x,y = 0.04, -2.78"
+[1] "Printed correlation af x,y = 1.92, 1.09"
+[1] "Printed correlation af x,y = -2.92, 1.48"
+[1] "Printed correlation af x,y = 0.04, -2.78"
+[1] "Printed correlation af x,y = 1.92, 1.09"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   4.467   4.767    0.000    1.000  0.951    0.908    0.908     0.614    0.691     0.969  0.572    0.856     0.952    1.132    1.523     0.011  329.055 -5.000  1.490 35.000 1.762 37.000 1.590 36.000 -2.120 9.000 0.003 21.000 2.189 39.000"
+[1] "Using scanning varianble = -5"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -5.000000  "
+[1] "Generated 76 ddGs with observed mean 0.245 and std 2.280"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 125 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -3.11, 1.26"
+[1] "Printed correlation af x,y = 0.06, -2.81"
+[1] "Printed correlation af x,y = 2.00, 1.30"
+[1] "Printed correlation af x,y = -3.11, 1.26"
+[1] "Printed correlation af x,y = 0.06, -2.81"
+[1] "Printed correlation af x,y = 2.00, 1.30"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   4.277   4.639    0.000    1.000  0.974    0.927    0.927     0.667    0.771     0.965  0.612    0.807     0.945    1.221    1.581     0.011  304.415 -5.000  1.574 37.000 1.568 36.000 1.512 35.000 -2.166 6.000 -0.066 23.000 2.121 39.000"
+[1] "Using scanning varianble = -5"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -5.000000  "
+[1] "Generated 76 ddGs with observed mean 0.129 and std 2.200"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 125 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -2.93, 1.53"
+[1] "Printed correlation af x,y = -0.02, -2.79"
+[1] "Printed correlation af x,y = 1.84, 1.01"
+[1] "Printed correlation af x,y = -2.93, 1.53"
+[1] "Printed correlation af x,y = -0.02, -2.79"
+[1] "Printed correlation af x,y = 1.84, 1.01"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   4.974   5.192    0.000    1.000  0.928    0.883    0.883     0.586    0.867     0.969  0.494    0.896     0.960    1.068    1.458     0.011  316.706 -5.000  1.290 39.000 1.253 37.000 1.284 38.000 -2.165 6.000 0.005 20.000 2.042 40.000"
+[1] "Using scanning varianble = -4.5"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -4.500000  "
+[1] "Generated 76 ddGs with observed mean 0.370 and std 2.074"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 126 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -2.35, 1.08"
+[1] "Printed correlation af x,y = 0.10, -2.69"
+[1] "Printed correlation af x,y = 1.93, 1.37"
+[1] "Printed correlation af x,y = -2.35, 1.08"
+[1] "Printed correlation af x,y = 0.10, -2.69"
+[1] "Printed correlation af x,y = 1.93, 1.37"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   4.848   4.035    0.000    1.000  0.979    0.948    0.948     0.670    0.520     0.976  0.641    0.675     0.980    1.455    1.347     0.011  325.535 -4.500  1.864 34.000 1.867 35.000 1.907 36.000 -2.297 8.000 -0.073 26.000 2.364 40.000"
+[1] "Using scanning varianble = -4.5"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -4.500000  "
+[1] "Generated 76 ddGs with observed mean 0.328 and std 2.087"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 125 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -2.57, 0.96"
+[1] "Printed correlation af x,y = -0.01, -2.33"
+[1] "Printed correlation af x,y = 1.93, 1.03"
+[1] "Printed correlation af x,y = -2.57, 0.96"
+[1] "Printed correlation af x,y = -0.01, -2.33"
+[1] "Printed correlation af x,y = 1.93, 1.03"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   4.134   4.378    0.000    1.000  0.958    0.934    0.934     0.722    0.833     0.971  0.596    0.884     0.967    1.090    1.087     0.011  349.387 -4.500  1.120 36.000 0.959 33.000 0.966 34.000 -1.801 8.000 0.024 24.000 1.706 38.000"
+[1] "Using scanning varianble = -4.5"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -4.500000  "
+[1] "Generated 76 ddGs with observed mean 0.240 and std 2.001"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 126 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -2.55, 1.51"
+[1] "Printed correlation af x,y = 0.01, -3.08"
+[1] "Printed correlation af x,y = 1.83, 1.31"
+[1] "Printed correlation af x,y = -2.55, 1.51"
+[1] "Printed correlation af x,y = 0.01, -3.08"
+[1] "Printed correlation af x,y = 1.83, 1.31"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   5.136   4.252    0.000    1.000  0.966    0.921    0.921     0.593    0.718     0.970  0.558    0.882     0.982    1.420    1.533     0.011  335.572 -4.500  2.253 38.000 2.236 37.000 1.957 36.000 -2.576 6.000 -0.034 27.000 2.517 39.000"
+[1] "Using scanning varianble = -4"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -4.000000  "
+[1] "Generated 76 ddGs with observed mean 0.327 and std 1.774"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 126 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -2.06, 1.79"
+[1] "Printed correlation af x,y = -0.12, -3.04"
+[1] "Printed correlation af x,y = 1.70, 0.95"
+[1] "Printed correlation af x,y = -2.06, 1.79"
+[1] "Printed correlation af x,y = -0.12, -3.04"
+[1] "Printed correlation af x,y = 1.70, 0.95"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   4.827   4.032    0.000    1.000  0.927    0.918    0.918     0.732    0.778     0.964  0.442    0.947     0.971    1.390    1.268     0.011  314.970 -4.000  1.669 37.000 1.833 39.000 1.724 38.000 -2.312 5.000 -0.020 22.000 2.111 40.000"
+[1] "Using scanning varianble = -4"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -4.000000  "
+[1] "Generated 76 ddGs with observed mean 0.341 and std 1.866"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 125 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -2.13, 1.48"
+[1] "Printed correlation af x,y = 0.03, -2.62"
+[1] "Printed correlation af x,y = 1.77, 1.00"
+[1] "Printed correlation af x,y = -2.13, 1.48"
+[1] "Printed correlation af x,y = 0.03, -2.62"
+[1] "Printed correlation af x,y = 1.77, 1.00"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   4.681   4.147    0.000    1.000  0.939    0.926    0.926     0.728    0.606     0.964  0.441    0.819     0.971    1.309    1.218     0.011  314.483 -4.000  1.543 36.000 1.425 35.000 1.375 34.000 -2.129 7.000 -0.061 21.000 1.981 38.000"
+[1] "Using scanning varianble = -4"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -4.000000  "
+[1] "Generated 76 ddGs with observed mean 0.350 and std 1.837"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 125 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -2.23, 0.24"
+[1] "Printed correlation af x,y = 0.07, -2.28"
+[1] "Printed correlation af x,y = 1.77, 1.17"
+[1] "Printed correlation af x,y = -2.23, 0.24"
+[1] "Printed correlation af x,y = 0.07, -2.28"
+[1] "Printed correlation af x,y = 1.77, 1.17"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   4.811   3.644    0.000    1.000  0.978    0.967    0.967     0.800    0.858     0.919  0.611    0.856     0.934    1.438    0.844     0.011  337.021 -4.000  0.399 31.000 0.715 35.000 0.714 34.000 -2.169 8.000 -0.106 25.000 1.961 39.000"
+[1] "Using scanning varianble = -3.5"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -3.500000  "
+[1] "Generated 76 ddGs with observed mean 0.475 and std 1.733"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 125 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -1.82, -0.30"
+[1] "Printed correlation af x,y = -0.05, -1.77"
+[1] "Printed correlation af x,y = 1.93, 1.27"
+[1] "Printed correlation af x,y = -1.82, -0.30"
+[1] "Printed correlation af x,y = -0.05, -1.77"
+[1] "Printed correlation af x,y = 1.93, 1.27"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   4.988   3.487    0.000    1.000  0.989    0.983    0.983     0.894    0.991     0.941  0.729    0.942     0.987    1.307    0.296     0.011  463.074 -3.500  -0.252 27.000 0.073 34.000 0.001 33.000 -1.826 9.000 -0.036 31.000 1.698 42.000"
+[1] "Using scanning varianble = -3.5"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -3.500000  "
+[1] "Generated 76 ddGs with observed mean 0.474 and std 1.728"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 126 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -1.70, 0.69"
+[1] "Printed correlation af x,y = -0.01, -2.09"
+[1] "Printed correlation af x,y = 1.84, 1.14"
+[1] "Printed correlation af x,y = -1.70, 0.69"
+[1] "Printed correlation af x,y = -0.01, -2.09"
+[1] "Printed correlation af x,y = 1.84, 1.14"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   4.635   3.567    0.000    1.000  0.961    0.966    0.966     0.790    0.701     0.963  0.424    0.833     0.978    1.361    0.693     0.011  351.926 -3.500  0.325 31.000 1.081 35.000 1.158 38.000 -1.864 7.000 -0.028 26.000 1.870 41.000"
+[1] "Using scanning varianble = -3.5"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -3.500000  "
+[1] "Generated 76 ddGs with observed mean 0.490 and std 1.675"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 126 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -1.63, 1.39"
+[1] "Printed correlation af x,y = -0.04, -2.67"
+[1] "Printed correlation af x,y = 1.89, 1.41"
+[1] "Printed correlation af x,y = -1.63, 1.39"
+[1] "Printed correlation af x,y = -0.04, -2.67"
+[1] "Printed correlation af x,y = 1.89, 1.41"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   4.795   3.451    0.000    1.000  0.925    0.953    0.953     0.787    0.594     0.944  0.427    0.881     0.941    1.562    0.939     0.011  316.348 -3.500  0.851 34.000 1.594 39.000 1.593 38.000 -2.055 7.000 -0.038 23.000 2.328 42.000"
+[1] "Using scanning varianble = -3"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -3.000000  "
+[1] "Generated 76 ddGs with observed mean 0.570 and std 1.580"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 126 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -1.48, 0.58"
+[1] "Printed correlation af x,y = 0.02, -1.94"
+[1] "Printed correlation af x,y = 1.72, 1.06"
+[1] "Printed correlation af x,y = -1.48, 0.58"
+[1] "Printed correlation af x,y = 0.02, -1.94"
+[1] "Printed correlation af x,y = 1.72, 1.06"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   4.403   3.026    0.000    1.000  0.980    0.981    0.981     0.936    0.836     0.968  0.844    0.861     0.976    1.529    0.521     0.011  364.972 -3.000  -0.198 17.000 0.953 35.000 0.932 34.000 -2.074 6.000 -0.064 20.000 1.817 40.000"
+[1] "Using scanning varianble = -3"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -3.000000  "
+[1] "Generated 76 ddGs with observed mean 0.736 and std 1.503"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 125 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -1.21, 0.24"
+[1] "Printed correlation af x,y = -0.04, -1.86"
+[1] "Printed correlation af x,y = 1.92, 1.58"
+[1] "Printed correlation af x,y = -1.21, 0.24"
+[1] "Printed correlation af x,y = -0.04, -1.86"
+[1] "Printed correlation af x,y = 1.92, 1.58"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   4.386   2.450    0.000    1.000  0.987    0.991    0.991     0.952    0.287     0.978  0.779    0.211     0.989    1.695    0.273     0.011  345.082 -3.000  -1.150 14.000 0.903 36.000 1.591 37.000 -2.080 6.000 -0.023 27.000 1.837 40.000"
+[1] "Using scanning varianble = -3"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -3.000000  "
+[1] "Generated 76 ddGs with observed mean 0.646 and std 1.597"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 126 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -1.34, 1.65"
+[1] "Printed correlation af x,y = 0.03, -2.30"
+[1] "Printed correlation af x,y = 1.91, 1.35"
+[1] "Printed correlation af x,y = -1.34, 1.65"
+[1] "Printed correlation af x,y = 0.03, -2.30"
+[1] "Printed correlation af x,y = 1.91, 1.35"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   3.843   3.002    0.000    1.000  0.954    0.966    0.966     0.880    0.593     0.988  0.745    0.819     0.989    1.573    0.867     0.011  320.747 -3.000  0.579 25.000 2.080 39.000 2.149 40.000 -1.852 7.000 0.001 19.000 2.152 41.000"
+[1] "Using scanning varianble = -2.5"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -2.500000  "
+[1] "Generated 76 ddGs with observed mean 0.757 and std 1.361"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 126 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -1.30, 0.27"
+[1] "Printed correlation af x,y = -0.14, -2.03"
+[1] "Printed correlation af x,y = 1.86, 1.50"
+[1] "Printed correlation af x,y = -1.30, 0.27"
+[1] "Printed correlation af x,y = -0.14, -2.03"
+[1] "Printed correlation af x,y = 1.86, 1.50"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   3.732   2.238    0.000    1.000  0.980    0.991    0.991     0.964    0.519     0.985  0.982    0.593     0.972    1.750    0.348     0.011  325.928 -2.500  -1.166 7.000 0.757 32.000 1.894 40.000 -2.003 4.000 -0.078 21.000 1.856 39.000"
+[1] "Using scanning varianble = -2.5"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -2.500000  "
+[1] "Generated 76 ddGs with observed mean 0.728 and std 1.364"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 125 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -1.37, -0.09"
+[1] "Printed correlation af x,y = -0.04, -1.89"
+[1] "Printed correlation af x,y = 1.91, 1.70"
+[1] "Printed correlation af x,y = -1.37, -0.09"
+[1] "Printed correlation af x,y = -0.04, -1.89"
+[1] "Printed correlation af x,y = 1.91, 1.70"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   4.244   2.366    0.000    1.000  0.976    0.990    0.990     0.966    0.552     0.964  0.927    0.563     0.949    1.832    0.311     0.011  308.612 -2.500  -1.157 9.000 0.883 33.000 1.584 39.000 -2.098 5.000 -0.032 22.000 2.082 42.000"
+[1] "Using scanning varianble = -2.5"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -2.500000  "
+[1] "Generated 76 ddGs with observed mean 0.778 and std 1.483"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 125 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -1.27, 0.25"
+[1] "Printed correlation af x,y = 0.01, -2.23"
+[1] "Printed correlation af x,y = 2.01, 2.22"
+[1] "Printed correlation af x,y = -1.27, 0.25"
+[1] "Printed correlation af x,y = 0.01, -2.23"
+[1] "Printed correlation af x,y = 2.01, 2.22"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   4.908   2.439    0.000    1.000  0.977    0.992    0.992     0.945    0.756     0.961  0.919    0.699     0.882    2.153    0.410     0.011  300.810 -2.500  -1.631 12.000 0.888 32.000 2.771 41.000 -2.462 6.000 -0.059 22.000 2.527 40.000"
+[1] "Using scanning varianble = -2"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -2.000000  "
+[1] "Generated 76 ddGs with observed mean 0.880 and std 1.328"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 125 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -1.36, -0.73"
+[1] "Printed correlation af x,y = 0.09, -2.22"
+[1] "Printed correlation af x,y = 1.90, 2.33"
+[1] "Printed correlation af x,y = -1.36, -0.73"
+[1] "Printed correlation af x,y = 0.09, -2.22"
+[1] "Printed correlation af x,y = 1.90, 2.33"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   4.510   1.832    0.000    1.000  0.991    0.995    0.995     0.990    0.942     0.968  0.965    0.934     0.961    2.488    0.124     0.011  295.854 -2.000  -2.297 9.000 0.442 26.000 2.098 38.000 -2.656 6.000 -0.063 17.000 2.397 40.000"
+[1] "Using scanning varianble = -2"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -2.000000  "
+[1] "Generated 76 ddGs with observed mean 0.787 and std 1.335"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 125 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -1.37, -1.06"
+[1] "Printed correlation af x,y = -0.00, -2.39"
+[1] "Printed correlation af x,y = 1.82, 2.12"
+[1] "Printed correlation af x,y = -1.37, -1.06"
+[1] "Printed correlation af x,y = -0.00, -2.39"
+[1] "Printed correlation af x,y = 1.82, 2.12"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   5.957   2.213    0.000    1.000  0.990    0.994    0.994     0.986    0.977     0.950  0.963    0.965     0.947    2.429   -0.005     0.011  352.676 -2.000  -2.489 10.000 0.083 25.000 1.987 38.000 -2.631 8.000 -0.084 23.000 2.550 40.000"
+[1] "Using scanning varianble = -2"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -2.000000  "
+[1] "Generated 76 ddGs with observed mean 0.794 and std 1.327"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 125 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -1.42, -0.68"
+[1] "Printed correlation af x,y = -0.01, -2.18"
+[1] "Printed correlation af x,y = 1.77, 1.78"
+[1] "Printed correlation af x,y = -1.42, -0.68"
+[1] "Printed correlation af x,y = -0.01, -2.18"
+[1] "Printed correlation af x,y = 1.77, 1.78"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   4.579   2.054    0.000    1.000  0.991    0.995    0.995     0.983    0.880     0.979  0.935    0.900     0.963    2.220    0.202     0.011  322.121 -2.000  -1.759 10.000 0.747 27.000 2.299 40.000 -2.480 6.000 -0.098 20.000 2.250 39.000"
+[1] "Using scanning varianble = -1.5"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -1.500000  "
+[1] "Generated 76 ddGs with observed mean 0.982 and std 1.180"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 126 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -1.14, -0.66"
+[1] "Printed correlation af x,y = -0.03, -2.57"
+[1] "Printed correlation af x,y = 1.69, 1.94"
+[1] "Printed correlation af x,y = -1.14, -0.66"
+[1] "Printed correlation af x,y = -0.03, -2.57"
+[1] "Printed correlation af x,y = 1.69, 1.94"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   3.929   1.240    0.000    1.000  0.996    0.998    0.998     0.991    0.964     0.987  0.907    0.960     0.987    2.614   -0.088     0.011  299.996 -1.500  -2.671 9.000 0.154 21.000 2.684 35.000 -2.789 5.000 -0.062 17.000 2.623 34.000"
+[1] "Using scanning varianble = -1.5"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -1.500000  "
+[1] "Generated 76 ddGs with observed mean 0.892 and std 1.143"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 125 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -1.12, -0.29"
+[1] "Printed correlation af x,y = 0.17, -2.27"
+[1] "Printed correlation af x,y = 1.67, 2.00"
+[1] "Printed correlation af x,y = -1.12, -0.29"
+[1] "Printed correlation af x,y = 0.17, -2.27"
+[1] "Printed correlation af x,y = 1.67, 2.00"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   4.038   1.366    0.000    1.000  0.997    0.997    0.997     0.989    0.956     0.988  0.977    0.981     0.986    2.782    0.119     0.011  270.289 -1.500  -2.673 9.000 0.334 18.000 2.883 34.000 -2.964 7.000 0.011 16.000 2.960 39.000"
+[1] "Using scanning varianble = -1.5"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -1.500000  "
+[1] "Generated 76 ddGs with observed mean 0.906 and std 1.193"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 126 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -1.11, -0.34"
+[1] "Printed correlation af x,y = 0.13, -2.62"
+[1] "Printed correlation af x,y = 1.70, 2.30"
+[1] "Printed correlation af x,y = -1.11, -0.34"
+[1] "Printed correlation af x,y = 0.13, -2.62"
+[1] "Printed correlation af x,y = 1.70, 2.30"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   5.247   1.640    0.000    1.000  0.989    0.994    0.994     0.989    0.979     0.967  0.975    0.947     0.956    3.072    0.114     0.011  261.363 -1.500  -2.882 9.000 0.327 21.000 3.641 39.000 -3.300 6.000 -0.015 17.000 3.341 38.000"
+[1] "Using scanning varianble = -1"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -1.000000  "
+[1] "Generated 76 ddGs with observed mean 0.984 and std 1.108"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 125 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.98, -0.21"
+[1] "Printed correlation af x,y = 0.06, -3.89"
+[1] "Printed correlation af x,y = 1.68, 3.13"
+[1] "Printed correlation af x,y = -0.98, -0.21"
+[1] "Printed correlation af x,y = 0.06, -3.89"
+[1] "Printed correlation af x,y = 1.68, 3.13"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   5.929   1.271    0.000    1.000  0.988    0.996    0.996     0.930    0.996     0.976  0.957    0.989     0.957    4.271   -0.004     0.011  253.581 -1.000  -4.344 6.000 -0.003 18.000 4.686 40.000 -4.495 4.000 -0.124 17.000 4.307 35.000"
+[1] "Using scanning varianble = -1"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -1.000000  "
+[1] "Generated 76 ddGs with observed mean 0.916 and std 1.048"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 126 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.94, -0.02"
+[1] "Printed correlation af x,y = 0.00, -3.86"
+[1] "Printed correlation af x,y = 1.61, 2.61"
+[1] "Printed correlation af x,y = -0.94, -0.02"
+[1] "Printed correlation af x,y = 0.00, -3.86"
+[1] "Printed correlation af x,y = 1.61, 2.61"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   4.729   1.063    0.000    1.000  0.991    0.994    0.994     0.993    0.991     0.971  0.939    0.987     0.968    3.962    0.081     0.011  252.206 -1.000  -4.124 5.000 0.105 20.000 4.354 36.000 -4.277 3.000 -0.013 16.000 4.183 34.000"
+[1] "Using scanning varianble = -1"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -1.000000  "
+[1] "Generated 76 ddGs with observed mean 0.989 and std 1.151"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 126 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.85, 0.54"
+[1] "Printed correlation af x,y = 0.12, -3.19"
+[1] "Printed correlation af x,y = 1.73, 2.84"
+[1] "Printed correlation af x,y = -0.85, 0.54"
+[1] "Printed correlation af x,y = 0.12, -3.19"
+[1] "Printed correlation af x,y = 1.73, 2.84"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   5.031   1.344    0.000    1.000  0.987    0.989    0.989     0.988    0.988     0.941  0.951    0.989     0.953    3.628    0.179     0.011  234.341 -1.000  -3.761 6.000 0.134 19.000 4.629 38.000 -3.918 4.000 -0.032 17.000 3.721 31.000"
+[1] "Using scanning varianble = -0.5"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -0.500000  "
+[1] "Generated 76 ddGs with observed mean 1.159 and std 1.147"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 125 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.80, 0.55"
+[1] "Printed correlation af x,y = 0.07, -4.06"
+[1] "Printed correlation af x,y = 1.92, 4.30"
+[1] "Printed correlation af x,y = -0.80, 0.55"
+[1] "Printed correlation af x,y = 0.07, -4.06"
+[1] "Printed correlation af x,y = 1.92, 4.30"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   4.364   0.876    0.000    1.000  0.986    0.990    0.990     0.997    0.991     0.935  0.957    0.987     0.949    4.384    0.098     0.011  222.269 -0.500  -4.681 4.000 -0.053 17.000 4.902 31.000 -4.752 3.000 -0.063 15.000 4.909 32.000"
+[1] "Using scanning varianble = -0.5"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -0.500000  "
+[1] "Generated 76 ddGs with observed mean 1.145 and std 1.096"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 125 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.95, -0.00"
+[1] "Printed correlation af x,y = -0.05, -4.50"
+[1] "Printed correlation af x,y = 1.78, 3.60"
+[1] "Printed correlation af x,y = -0.95, -0.00"
+[1] "Printed correlation af x,y = -0.05, -4.50"
+[1] "Printed correlation af x,y = 1.78, 3.60"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   3.784   0.813    0.000    1.000  0.992    0.991    0.991     0.989    0.998     0.945  0.906    0.990     0.978    4.310    0.107     0.011  214.448 -0.500  -4.323 5.000 0.049 18.000 4.603 29.000 -4.480 4.000 -0.071 16.000 4.614 30.000"
+[1] "Using scanning varianble = -0.5"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : -0.500000  "
+[1] "Generated 76 ddGs with observed mean 1.144 and std 1.143"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 126 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.86, 0.64"
+[1] "Printed correlation af x,y = -0.02, -4.43"
+[1] "Printed correlation af x,y = 1.81, 3.69"
+[1] "Printed correlation af x,y = -0.86, 0.64"
+[1] "Printed correlation af x,y = -0.02, -4.43"
+[1] "Printed correlation af x,y = 1.81, 3.69"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   4.059   0.963    0.000    1.000  0.988    0.991    0.991     0.996    0.983     0.952  0.969    0.981     0.966    4.285    0.213     0.011  219.905 -0.500  -4.382 5.000 -0.060 18.000 4.580 29.000 -4.402 4.000 -0.012 19.000 4.565 28.000"
+[1] "Using scanning varianble = 0"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : 0.000000  "
+[1] "Generated 76 ddGs with observed mean 1.263 and std 1.058"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 126 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.94, -0.12"
+[1] "Printed correlation af x,y = -0.03, -4.50"
+[1] "Printed correlation af x,y = 1.84, 3.96"
+[1] "Printed correlation af x,y = -0.94, -0.12"
+[1] "Printed correlation af x,y = -0.03, -4.50"
+[1] "Printed correlation af x,y = 1.84, 3.96"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   1.717   0.253    0.000    1.000  0.985    0.994    0.994     0.998    0.989     0.964  0.707    0.950     0.963    4.458   -0.024     0.011  214.785 0.000  -4.755 2.000 -0.192 11.000 4.652 26.000 -4.695 3.000 -0.143 12.000 4.608 25.000"
+[1] "Using scanning varianble = 0"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : 0.000000  "
+[1] "Generated 76 ddGs with observed mean 1.295 and std 1.066"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 125 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.92, -0.00"
+[1] "Printed correlation af x,y = 0.05, -4.10"
+[1] "Printed correlation af x,y = 1.89, 4.12"
+[1] "Printed correlation af x,y = -0.92, -0.00"
+[1] "Printed correlation af x,y = 0.05, -4.10"
+[1] "Printed correlation af x,y = 1.89, 4.12"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   1.156   0.172    0.000    1.000  0.992    0.991    0.991     0.999    0.993     0.947  0.707    0.991     0.978    4.366    0.096     0.011  220.409 0.000  -4.689 3.000 0.010 15.000 4.632 26.000 -4.721 1.000 -0.042 13.000 4.693 28.000"
+[1] "Using scanning varianble = 0"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : 0.000000  "
+[1] "Generated 76 ddGs with observed mean 1.281 and std 1.069"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 126 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.96, -0.15"
+[1] "Printed correlation af x,y = 0.06, -4.05"
+[1] "Printed correlation af x,y = 1.91, 4.16"
+[1] "Printed correlation af x,y = -0.96, -0.15"
+[1] "Printed correlation af x,y = 0.06, -4.05"
+[1] "Printed correlation af x,y = 1.91, 4.16"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   1.556   0.278    0.000    1.000  0.991    0.989    0.989     0.995    0.997     0.926  0.707    0.985     0.974    4.327    0.107     0.011  215.871 0.000  -4.579 4.000 -0.073 13.000 4.445 26.000 -4.618 2.000 -0.042 14.000 4.562 28.000"
+[1] "Using scanning varianble = 0.5"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : 0.500000  "
+[1] "Generated 76 ddGs with observed mean 1.382 and std 1.167"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 126 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.91, -0.28"
+[1] "Printed correlation af x,y = 0.05, -3.83"
+[1] "Printed correlation af x,y = 2.05, 4.50"
+[1] "Printed correlation af x,y = -0.91, -0.28"
+[1] "Printed correlation af x,y = 0.05, -3.83"
+[1] "Printed correlation af x,y = 2.05, 4.50"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   1.795   0.203    0.000    1.000  0.985    0.988    0.988     0.999    0.994     0.938  0.707    0.993     0.955    4.029   -0.009     0.011  220.031 0.500  -4.493 4.000 -0.207 11.000 4.337 27.000 -4.515 2.000 0.003 14.000 4.557 29.000"
+[1] "Using scanning varianble = 0.5"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : 0.500000  "
+[1] "Generated 76 ddGs with observed mean 1.354 and std 1.080"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 126 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.88, 0.16"
+[1] "Printed correlation af x,y = 0.02, -3.96"
+[1] "Printed correlation af x,y = 1.89, 3.83"
+[1] "Printed correlation af x,y = -0.88, 0.16"
+[1] "Printed correlation af x,y = 0.02, -3.96"
+[1] "Printed correlation af x,y = 1.89, 3.83"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   0.538   0.029    0.000    1.000  0.992    0.991    0.991     0.983    0.988     0.956  0.778    0.964     0.981    4.046    0.072     0.011  227.889 0.500  -4.510 1.000 -0.122 11.000 4.249 22.000 -4.363 2.000 0.023 14.000 4.907 25.000"
+[1] "Using scanning varianble = 0.5"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : 0.500000  "
+[1] "Generated 76 ddGs with observed mean 1.351 and std 1.209"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 125 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.91, 0.04"
+[1] "Printed correlation af x,y = -0.03, -3.92"
+[1] "Printed correlation af x,y = 2.01, 4.07"
+[1] "Printed correlation af x,y = -0.91, 0.04"
+[1] "Printed correlation af x,y = -0.03, -3.92"
+[1] "Printed correlation af x,y = 2.01, 4.07"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   2.395   0.517    0.000    1.000  0.990    0.991    0.991     0.986    0.994     0.955  0.939    0.986     0.973    3.828    0.085     0.011  219.463 0.500  -4.170 2.000 -0.069 14.000 3.942 26.000 -4.015 4.000 0.005 17.000 3.930 25.000"
+[1] "Using scanning varianble = 1"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : 1.000000  "
+[1] "Generated 76 ddGs with observed mean 1.484 and std 1.219"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 126 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.94, 0.01"
+[1] "Printed correlation af x,y = 0.05, -3.54"
+[1] "Printed correlation af x,y = 2.10, 4.20"
+[1] "Printed correlation af x,y = -0.94, 0.01"
+[1] "Printed correlation af x,y = 0.05, -3.54"
+[1] "Printed correlation af x,y = 2.10, 4.20"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   0.614   0.066    0.000    1.000  0.985    0.982    0.982     0.996    0.958     0.921  0.845    0.976     0.964    3.613    0.193     0.011  231.933 1.000  -4.082 1.000 -0.061 12.000 3.830 24.000 -3.935 4.000 0.002 14.000 4.066 27.000"
+[1] "Using scanning varianble = 1"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : 1.000000  "
+[1] "Generated 76 ddGs with observed mean 1.384 and std 1.194"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 126 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -1.05, -0.62"
+[1] "Printed correlation af x,y = -0.00, -3.71"
+[1] "Printed correlation af x,y = 2.01, 3.97"
+[1] "Printed correlation af x,y = -1.05, -0.62"
+[1] "Printed correlation af x,y = -0.00, -3.71"
+[1] "Printed correlation af x,y = 2.01, 3.97"
+null device 
+          1 
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_s_stab  cor_s_neu  cor_s_dest    slope    inter  frac_act  rss scan p1_-1_ddG p1_-1_rank p1_0_ddG p1_0_rank p1_1_ddG p1_1_rank p2_-1_ddG p2_-1_rank p2_0_ddG p2_0_rank p2_1_ddG p2_1_rank "
+[1] " RESULT_VAL   1.706   0.271    0.000    1.000  0.994    0.990    0.990     0.976    0.993     0.956  0.707    0.987     0.984    3.728    0.047     0.011  225.800 1.000  -4.218 2.000 -0.159 12.000 3.817 26.000 -4.069 3.000 -0.088 14.000 3.983 28.000"
+[1] "Using scanning varianble = 1"
+[1] "Generated 76 substotutions of Laub with 0 stabilizing, 20 neutral and 56 destabilizing, and 0 IFS"
+[1] " RESULT_SCAN : mean ddGs at pos1 +  : 1.000000  "
+[1] "Generated 76 ddGs with observed mean 1.461 and std 1.245"
+[1] "Generate all possible pair couplings on ddG level"
+[1] "Summary of 2166 pair couplings"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "Misclassified 130 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 

@@ -1,0 +1,39 @@
+[1] "Read gmma_fit_global.rda"
+[1] "Base line initial fit: dG_wt   0.00, B_max   1.00, B_D   0.00"
+[1] "Base line global fit : dG_wt  -1.35, B_max   1.00, B_D   0.00"
+[1] "=== GMMA Settings ==="
+$taa_letters
+[1] 1
+
+$RT
+[1] 0.5955
+
+$RT_unit
+[1] "kcal/mol (at 300 K)"
+
+$dG_wt_input
+[1] NA
+
+$active_cut
+[1] 0.5
+
+$inactive_cut
+[1] 0.5
+
+$init_mean
+[1] 0
+
+$init_sd
+[1] 0.5
+
+$glob_ddG_max
+[1] 10
+
+$glob_ddG_min
+[1] -5
+
+[1] "Global fit result (2): Relative error between `par' and the solution is at most `ptol'."
+[1] "Estimated 77 parameters from 160000 data points (159923 degrees of freedom)"
+[1] "Sum-of-squares 201.00 in 28 iterations"
+[1] "Chi-squared: Inf (using WT uncertainty 0.00)"
+[1] "Reduced chi-squared: Inf"

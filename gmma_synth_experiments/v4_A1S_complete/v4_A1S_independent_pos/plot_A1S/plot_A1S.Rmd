@@ -1,0 +1,236 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+Plot interpretable plots of A1S true stab experiments
+
+```{r}
+library("tidyverse")
+library("reshape2")
+library("cowplot")
+library("stringr")
+
+library("dplyr")
+
+d <- read.table("../scan_dat_pruned.txt", header = TRUE)
+```
+
+
+
+Prepare data for plotting (really ugly, but works)
+```{r}
+
+d_plot <- d[,which(colnames(d) == "scan"):ncol(d)] # froms scan var and including all probe measuremetnts
+
+# summarise repeat measurements
+d_plot_ddG <- d_plot[,c(1,seq(2,ncol(d_plot),2))] %>% 
+  melt(value.name = "ddG_fit", id.vars = "scan") 
+  # %>% group_by(scan, variable)
+
+d_plot_ddG$pos <- str_split_fixed(d_plot_ddG$variable, pattern = "", n = 9)[,2] # hardcoded.
+d_plot_ddG$init_ddG <- str_split_fixed(d_plot_ddG$variable, pattern = "", n = 9)[,4] # hardcoded.
+d_plot_ddG[d_plot_ddG$init_ddG == ".",]$init_ddG <- "-1" # properly set init ddG -1
+
+d_plot_ddG[d_plot_ddG$pos == 3 | d_plot_ddG$pos == 4,]$pos <- "2" # treat psoition 3 and 4 as position 2 (ie different from positon 1 ("free extra measurements"))
+d_plot_ddG$id_clean <- paste(d_plot_ddG$scan, d_plot_ddG$pos, d_plot_ddG$init_ddG) 
+
+
+d_plot_ddG <- d_plot_ddG %>% group_by(id_clean) %>% dplyr::summarise(sd=sd(ddG_fit),ddG_fit=mean(ddG_fit), n = n(), SE = sd/sqrt(n)) # works becuse data is "grouped" by factors scan and variable
+  # summarise only works by 2 groups at once ????????????????????? 
+paste(d_plot_ddG$scan, d_plot_ddG$pos, d_plot_ddG$init_ddG) 
+d_plot_ddG$scan <- unlist(str_split(d_plot_ddG$id_clean, " "))[seq(1,length(unlist(str_split(d_plot_ddG$id_clean, " "))),3)]
+d_plot_ddG$pos <- unlist(str_split(d_plot_ddG$id_clean, " "))[seq(2,length(unlist(str_split(d_plot_ddG$id_clean, " "))),3)]
+d_plot_ddG[d_plot_ddG$pos == 2,]$pos <- "2,3,4"
+
+d_plot_ddG$init_ddG <- unlist(str_split(d_plot_ddG$id_clean, " "))[seq(3,length(unlist(str_split(d_plot_ddG$id_clean, " "))),3)]
+  
+d_plot_ddG$scan <- as.numeric(d_plot_ddG$scan)
+
+
+
+
+
+
+
+
+
+
+# summarise repeat measurements
+d_plot_rank <- d_plot[,seq(1,ncol(d_plot),2)] %>% 
+  melt(value.name = "rank_fit", id.vars = "scan") 
+  # %>% group_by(scan, variable)
+
+d_plot_rank$pos <- str_split_fixed(d_plot_rank$variable, pattern = "", n = 9)[,2] # hardcoded.
+d_plot_rank$init_ddG <- str_split_fixed(d_plot_rank$variable, pattern = "", n = 9)[,4] # hardcoded.
+d_plot_rank[d_plot_rank$init_ddG == ".",]$init_ddG <- "-1" # properly set init ddG -1
+
+d_plot_rank[d_plot_rank$pos == 3 | d_plot_rank$pos == 4,]$pos <- "2" # treat psoition 3 and 4 as position 2 (ie different from positon 1 ("free extra measurements"))
+d_plot_rank$id_clean <- paste(d_plot_rank$scan, d_plot_rank$pos, d_plot_rank$init_ddG) 
+
+
+d_plot_rank <- d_plot_rank %>% group_by(id_clean) %>% dplyr::summarise(sd=sd(rank_fit),rank_fit=mean(rank_fit), n = n(), SE = sd/sqrt(n)) # works becuse data is "grouped" by factors scan and variable
+  # summarise only works by 2 groups at once ????????????????????? 
+paste(d_plot_rank$scan, d_plot_rank$pos, d_plot_rank$init_ddG) 
+d_plot_rank$scan <- unlist(str_split(d_plot_rank$id_clean, " "))[seq(1,length(unlist(str_split(d_plot_rank$id_clean, " "))),3)]
+d_plot_rank$pos <- unlist(str_split(d_plot_rank$id_clean, " "))[seq(2,length(unlist(str_split(d_plot_rank$id_clean, " "))),3)]
+d_plot_rank[d_plot_rank$pos == 2,]$pos <- "2,3,4"
+d_plot_rank$init_ddG <- unlist(str_split(d_plot_rank$id_clean, " "))[seq(3,length(unlist(str_split(d_plot_rank$id_clean, " "))),3)]
+  
+d_plot_rank$scan <- as.numeric(d_plot_rank$scan)
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r}
+# plot ddG full
+ggplot(data = d_plot_ddG, aes(x = scan, y = ddG_fit, shape = pos, colour = init_ddG))+
+  geom_line()+
+  geom_point(colour = "black")+
+  geom_errorbar(aes(ymin = ddG_fit-SE,ymax = ddG_fit+SE), width = 0.1)+ # error bars +- 1SEM
+  labs(x = "Position 1 ddG displacement", y = "ddG fitted probe", shape = "Probe position", colour = "ddG true probe")+ # rename aesethetics in plot
+  geom_hline(yintercept = 0)+
+  theme_cowplot()
+
+ggsave("A1S_ddg_all.png")
+```
+```{r}
+# plot ddG xlimit
+ggplot(data = d_plot_ddG, aes(x = scan, y = ddG_fit, shape = pos, color = init_ddG))+
+  geom_line()+
+  geom_point(colour = "black")+
+  geom_errorbar(aes(ymin = ddG_fit-sd,ymax = ddG_fit+sd), width = 0.1)+
+  labs(x = "Position 1 ddG displacement", y = "ddG fitted probe", shape = "Probe position", colour = "ddG true probe")+ # rename aesethetics in plot
+  
+  xlim(0,8)+
+  geom_hline(yintercept = 0)+
+  theme_cowplot()
+
+ggsave("A1S_ddg_positive.png")
+```
+
+```{r}
+# plot ddG xlimit, only init ddG 0 and fit linmodels
+ggplot(data = d_plot_ddG[d_plot_ddG$init_ddG == 0,], aes(x = scan, y = ddG_fit, shape = pos, color = init_ddG))+
+  geom_line()+
+  geom_point(colour = "black")+
+  geom_errorbar(aes(ymin = ddG_fit-sd,ymax = ddG_fit+sd), width = 0.1)+
+  labs(x = "Position 1 ddG displacement", y = "ddG fitted probe", shape = "Probe position", colour = "ddG true probe")+ # rename aesethetics in plot
+  
+  xlim(0,8)+
+  ylim(-0.3,0.3)+
+  
+  # geom_smooth(method = "lm", fill = NA, colour = "grey")+
+  geom_hline(yintercept = 0)+
+  theme_cowplot()
+
+ggsave("A1S_ddg_positive_only0.png")
+
+```
+Formal statistic test? hwo to do properly?
+
+
+
+```{r}
+# plot ddG xlimit, only init ddG 0 and fit linmodels
+ggplot(data = d_plot_ddG[d_plot_ddG$init_ddG == 0,], aes(x = scan, y = ddG_fit, shape = pos, color = init_ddG))+
+  geom_line()+
+  geom_point(colour = "black")+
+  geom_errorbar(aes(ymin = ddG_fit-sd,ymax = ddG_fit+sd), width = 0.1)+
+  labs(x = "Position 1 ddG displacement", y = "ddG fitted probe", shape = "Probe position", colour = "ddG true probe")+ # rename aesethetics in plot
+  
+  xlim(-2,8)+
+  ylim(-0.5,0.5)+
+  
+  # geom_smooth(method = "lm", fill = NA, colour = "grey")+
+  geom_hline(yintercept = 0)+
+  theme_cowplot()
+
+ggsave("A1S_ddg_broad_only0.png")
+
+```
+
+```{r}
+
+ggplot(data = d_plot_ddG[d_plot_ddG$init_ddG == 1,], aes(x = scan, y = ddG_fit, shape = pos, color = init_ddG))+
+  geom_line()+
+  geom_point(colour = "black")+
+  geom_errorbar(aes(ymin = ddG_fit-sd,ymax = ddG_fit+sd), width = 0.1)+
+  labs(x = "Position 1 ddG displacement", y = "ddG fitted probe", shape = "Probe position", colour = "ddG true probe")+ # rename aesethetics in plot
+  
+  xlim(0,8)+
+  ylim(2,5)+
+  
+  # geom_smooth(method = "lm", fill = NA, colour = "grey")+
+  geom_hline(yintercept = 0)+
+  theme_cowplot()
+
+```
+
+```{r}
+
+ggplot(data = d_plot_ddG[d_plot_ddG$init_ddG == -1,], aes(x = scan, y = ddG_fit, shape = pos, color = init_ddG))+
+  geom_line()+
+  geom_point(colour = "black")+
+  geom_errorbar(aes(ymin = ddG_fit-sd,ymax = ddG_fit+sd), width = 0.1)+
+  labs(x = "Position 1 ddG displacement", y = "ddG fitted probe", shape = "Probe position", colour = "ddG true probe")+ # rename aesethetics in plot
+  
+  xlim(0,8)+
+  ylim(-5,-2)+
+  
+  # geom_smooth(method = "lm", fill = NA, colour = "grey")+
+  geom_hline(yintercept = 0)+
+  theme_cowplot()
+
+```
+
+
+
+```{r}
+# plot rank
+ggplot(data = d_plot_rank, aes(x = scan, y = rank_fit, shape = pos, color = init_ddG))+
+  geom_line()+
+  geom_point(colour = "black")+
+  geom_errorbar(aes(ymin = rank_fit-SE,ymax = rank_fit+SE), width = 0.1)+
+  labs(x = "Position 1 ddG displacement", y = "Rank fitted probe", shape = "Probe position", colour = "ddG true probe")+ # rename aesethetics in plot
+  
+  theme_cowplot()
+
+ggsave("A1S_rank_all.png")
+```
+
+
+```{r}
+# plot rank
+ggplot(data = d_plot_rank, aes(x = scan, y = rank_fit, shape = pos, color = init_ddG))+
+  geom_line()+
+  geom_point(colour = "black")+
+  geom_errorbar(aes(ymin = rank_fit-SE,ymax = rank_fit+SE), width = 0.1)+
+  xlim(0,8)+
+  ylim(1,25)+
+  labs(x = "Position 1 ddG displacement", y = "Rank fitted probe", shape = "Probe position", colour = "ddG true probe")+ # rename aesethetics in plot
+  
+  
+  
+  theme_cowplot()
+
+ggsave("A1S_rank_positive.png")
+  
+```
+

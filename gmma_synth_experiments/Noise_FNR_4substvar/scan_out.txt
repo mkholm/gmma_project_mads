@@ -1,0 +1,600 @@
+[1] "Using scanning varianble = 0"
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "FN rate: 0"
+[1] "Misclassified 0 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.10, 3.12"
+null device 
+          1 
+[1] "Printed correlation af x,y = -0.81, -0.05"
+[1] "Printed correlation af x,y = 0.04, -3.90"
+[1] "Printed correlation af x,y = 2.03, 4.53"
+[1] "Printed correlation af x,y = -0.81, -0.05"
+[1] "Printed correlation af x,y = 0.04, -3.90"
+[1] "Printed correlation af x,y = 2.03, 4.53"
+[1] "Printed correlation af x,y = -0.10, 3.12"
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_p_neustab cor_s_stab  cor_s_neu  cor_s_dest cor_s_neustab  slope    inter  frac_act RSS  scan"
+[1] " RESULT_VAL  -2.139   -0.749    0.000  1.000    0.964    0.989     0.989    1.000  0.971 0.886    0.989  1.000   0.974   0.916  0.984    4.168     -0.159    0.010 126.134    0.000 "
+[1] "Using scanning varianble = 5"
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "FN rate: 5"
+[1] "Misclassified 87 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.10, 3.07"
+null device 
+          1 
+[1] "Printed correlation af x,y = -0.81, -0.18"
+[1] "Printed correlation af x,y = 0.04, -3.85"
+[1] "Printed correlation af x,y = 2.03, 4.51"
+[1] "Printed correlation af x,y = -0.81, -0.18"
+[1] "Printed correlation af x,y = 0.04, -3.85"
+[1] "Printed correlation af x,y = 2.03, 4.51"
+[1] "Printed correlation af x,y = -0.10, 3.07"
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_p_neustab cor_s_stab  cor_s_neu  cor_s_dest cor_s_neustab  slope    inter  frac_act RSS  scan"
+[1] " RESULT_VAL  -2.147   -0.788    0.000  1.000    0.963    0.989     0.989    1.000  0.967 0.888    0.987  1.000   0.974   0.913  0.984    4.145     -0.180    0.010 205.462    5.000 "
+[1] "Using scanning varianble = 10"
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "FN rate: 10"
+[1] "Misclassified 184 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.10, 3.00"
+null device 
+          1 
+[1] "Printed correlation af x,y = -0.81, -0.26"
+[1] "Printed correlation af x,y = 0.04, -3.75"
+[1] "Printed correlation af x,y = 2.03, 4.45"
+[1] "Printed correlation af x,y = -0.81, -0.26"
+[1] "Printed correlation af x,y = 0.04, -3.75"
+[1] "Printed correlation af x,y = 2.03, 4.45"
+[1] "Printed correlation af x,y = -0.10, 3.00"
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_p_neustab cor_s_stab  cor_s_neu  cor_s_dest cor_s_neustab  slope    inter  frac_act RSS  scan"
+[1] " RESULT_VAL  -2.152   -0.822    0.000  1.000    0.973    0.990     0.990    0.999  0.962 0.902    0.985  1.000   0.950   0.937  0.970    4.103     -0.217    0.010 282.720   10.000 "
+[1] "Using scanning varianble = 15"
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "FN rate: 15"
+[1] "Misclassified 293 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.10, 2.86"
+null device 
+          1 
+[1] "Printed correlation af x,y = -0.81, -0.54"
+[1] "Printed correlation af x,y = 0.04, -3.60"
+[1] "Printed correlation af x,y = 2.03, 4.38"
+[1] "Printed correlation af x,y = -0.81, -0.54"
+[1] "Printed correlation af x,y = 0.04, -3.60"
+[1] "Printed correlation af x,y = 2.03, 4.38"
+[1] "Printed correlation af x,y = -0.10, 2.86"
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_p_neustab cor_s_stab  cor_s_neu  cor_s_dest cor_s_neustab  slope    inter  frac_act RSS  scan"
+[1] " RESULT_VAL  -2.028   -0.861    0.000  1.000    0.971    0.990     0.990    0.999  0.945 0.906    0.979  1.000   0.950   0.931  0.970    4.041     -0.276    0.010 367.104   15.000 "
+[1] "Using scanning varianble = 20"
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "FN rate: 20"
+[1] "Misclassified 415 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.10, 3.12"
+null device 
+          1 
+[1] "Printed correlation af x,y = -0.81, -0.36"
+[1] "Printed correlation af x,y = 0.04, -3.68"
+[1] "Printed correlation af x,y = 2.03, 4.48"
+[1] "Printed correlation af x,y = -0.81, -0.36"
+[1] "Printed correlation af x,y = 0.04, -3.68"
+[1] "Printed correlation af x,y = 2.03, 4.48"
+[1] "Printed correlation af x,y = -0.10, 3.12"
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_p_neustab cor_s_stab  cor_s_neu  cor_s_dest cor_s_neustab  slope    inter  frac_act RSS  scan"
+[1] " RESULT_VAL  -2.400   -0.907    0.000  1.000    0.979    0.992     0.992    1.000  0.950 0.936    0.980  1.000   0.962   0.952  0.977    4.148     -0.216    0.010 465.928   20.000 "
+[1] "Using scanning varianble = 25"
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "FN rate: 25"
+[1] "Misclassified 553 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.10, 2.74"
+null device 
+          1 
+[1] "Printed correlation af x,y = -0.81, -0.92"
+[1] "Printed correlation af x,y = 0.04, -3.33"
+[1] "Printed correlation af x,y = 2.03, 4.22"
+[1] "Printed correlation af x,y = -0.81, -0.92"
+[1] "Printed correlation af x,y = 0.04, -3.33"
+[1] "Printed correlation af x,y = 2.03, 4.22"
+[1] "Printed correlation af x,y = -0.10, 2.74"
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_p_neustab cor_s_stab  cor_s_neu  cor_s_dest cor_s_neustab  slope    inter  frac_act RSS  scan"
+[1] " RESULT_VAL  -1.960   -0.954    0.000  1.000    0.976    0.988     0.988    1.000  0.881 0.917    0.954  1.000   0.909   0.945  0.946    3.905     -0.308    0.010 560.280   25.000 "
+[1] "Using scanning varianble = 30"
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "FN rate: 30"
+[1] "Misclassified 711 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.10, 2.66"
+null device 
+          1 
+[1] "Printed correlation af x,y = -0.81, -0.50"
+[1] "Printed correlation af x,y = 0.04, -3.09"
+[1] "Printed correlation af x,y = 2.03, 3.96"
+[1] "Printed correlation af x,y = -0.81, -0.50"
+[1] "Printed correlation af x,y = 0.04, -3.09"
+[1] "Printed correlation af x,y = 2.03, 3.96"
+[1] "Printed correlation af x,y = -0.10, 2.66"
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_p_neustab cor_s_stab  cor_s_neu  cor_s_dest cor_s_neustab  slope    inter  frac_act RSS  scan"
+[1] " RESULT_VAL  -2.057   -1.008    0.000  1.000    0.976    0.985     0.993    1.000  0.925 0.927    0.971  1.000   0.935   0.944  0.961    3.688     -0.307    0.010 669.600   30.000 "
+[1] "Using scanning varianble = 35"
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "FN rate: 35"
+[1] "Misclassified 894 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.10, 1.80"
+null device 
+          1 
+[1] "Printed correlation af x,y = -0.81, -0.35"
+[1] "Printed correlation af x,y = 0.04, -2.20"
+[1] "Printed correlation af x,y = 2.03, 3.00"
+[1] "Printed correlation af x,y = -0.81, -0.35"
+[1] "Printed correlation af x,y = 0.04, -2.20"
+[1] "Printed correlation af x,y = 2.03, 3.00"
+[1] "Printed correlation af x,y = -0.10, 1.80"
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_p_neustab cor_s_stab  cor_s_neu  cor_s_dest cor_s_neustab  slope    inter  frac_act RSS  scan"
+[1] " RESULT_VAL  -1.002   -1.065    0.000  1.000    0.966    0.901     0.993    0.995  0.961 0.744    0.982  1.000   0.947   0.921  0.968    2.814     -0.416    0.010 763.718   35.000 "
+[1] "Using scanning varianble = 40"
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "FN rate: 40"
+[1] "Misclassified 1106 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.10, 1.13"
+null device 
+          1 
+[1] "Printed correlation af x,y = -0.81, -0.13"
+[1] "Printed correlation af x,y = 0.04, -1.48"
+[1] "Printed correlation af x,y = 2.03, 2.18"
+[1] "Printed correlation af x,y = -0.81, -0.13"
+[1] "Printed correlation af x,y = 0.04, -1.48"
+[1] "Printed correlation af x,y = 2.03, 2.18"
+[1] "Printed correlation af x,y = -0.10, 1.13"
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_p_neustab cor_s_stab  cor_s_neu  cor_s_dest cor_s_neustab  slope    inter  frac_act RSS  scan"
+[1] " RESULT_VAL  -0.322   -1.127    0.000  1.000    0.966    0.781     0.988    1.000  0.971 0.673    0.988  1.000   0.979   0.921  0.988    2.063     -0.465    0.010 897.592   40.000 "
+[1] "Using scanning varianble = 45"
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "FN rate: 45"
+[1] "Misclassified 1358 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.10, 0.97"
+null device 
+          1 
+[1] "Printed correlation af x,y = -0.81, -0.15"
+[1] "Printed correlation af x,y = 0.04, -1.12"
+[1] "Printed correlation af x,y = 2.03, 1.76"
+[1] "Printed correlation af x,y = -0.81, -0.15"
+[1] "Printed correlation af x,y = 0.04, -1.12"
+[1] "Printed correlation af x,y = 2.03, 1.76"
+[1] "Printed correlation af x,y = -0.10, 0.97"
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_p_neustab cor_s_stab  cor_s_neu  cor_s_dest cor_s_neustab  slope    inter  frac_act RSS  scan"
+[1] " RESULT_VAL  -0.267   -1.192    0.000  1.000    0.961    0.752     0.981    0.994  0.964 0.686    0.984  1.000   0.968   0.908  0.981    1.686     -0.393    0.010 955.487   45.000 "
+[1] "Using scanning varianble = 50"
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "FN rate: 50"
+[1] "Misclassified 1659 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.10, 0.82"
+null device 
+          1 
+[1] "Printed correlation af x,y = -0.81, -0.07"
+[1] "Printed correlation af x,y = 0.04, -0.87"
+[1] "Printed correlation af x,y = 2.03, 1.28"
+[1] "Printed correlation af x,y = -0.81, -0.07"
+[1] "Printed correlation af x,y = 0.04, -0.87"
+[1] "Printed correlation af x,y = 2.03, 1.28"
+[1] "Printed correlation af x,y = -0.10, 0.82"
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_p_neustab cor_s_stab  cor_s_neu  cor_s_dest cor_s_neustab  slope    inter  frac_act RSS  scan"
+[1] " RESULT_VAL  -0.057   -1.261    0.000  1.000    0.952    0.761     0.948    0.999  0.965 0.624    0.986  1.000   0.965   0.887  0.979    1.229     -0.210    0.010 1057.140   50.000 "
+[1] "Using scanning varianble = 55"
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "FN rate: 55"
+[1] "Misclassified 2028 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.10, 0.64"
+null device 
+          1 
+[1] "Printed correlation af x,y = -0.81, -0.25"
+[1] "Printed correlation af x,y = 0.04, -0.67"
+[1] "Printed correlation af x,y = 2.03, 1.06"
+[1] "Printed correlation af x,y = -0.81, -0.25"
+[1] "Printed correlation af x,y = 0.04, -0.67"
+[1] "Printed correlation af x,y = 2.03, 1.06"
+[1] "Printed correlation af x,y = -0.10, 0.64"
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_p_neustab cor_s_stab  cor_s_neu  cor_s_dest cor_s_neustab  slope    inter  frac_act RSS  scan"
+[1] " RESULT_VAL   0.129   -1.342    0.000  1.000    0.951    0.793     0.953    0.974  0.938 0.682    0.973  1.000   0.947   0.885  0.968    1.020     -0.198    0.010 1143.957   55.000 "
+[1] "Using scanning varianble = 60"
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "FN rate: 60"
+[1] "Misclassified 2489 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.10, 0.60"
+null device 
+          1 
+[1] "Printed correlation af x,y = -0.81, -0.12"
+[1] "Printed correlation af x,y = 0.04, -0.63"
+[1] "Printed correlation af x,y = 2.03, 0.99"
+[1] "Printed correlation af x,y = -0.81, -0.12"
+[1] "Printed correlation af x,y = 0.04, -0.63"
+[1] "Printed correlation af x,y = 2.03, 0.99"
+[1] "Printed correlation af x,y = -0.10, 0.60"
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_p_neustab cor_s_stab  cor_s_neu  cor_s_dest cor_s_neustab  slope    inter  frac_act RSS  scan"
+[1] " RESULT_VAL   0.228   -1.442    0.000  1.000    0.961    0.747     0.973    0.889  0.963 0.645    0.982  0.500   0.935   0.909  0.960    0.955     -0.195    0.010 1194.978   60.000 "
+[1] "Using scanning varianble = 65"
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "FN rate: 65"
+[1] "Misclassified 3081 active and 16 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.10, 0.42"
+null device 
+          1 
+[1] "Printed correlation af x,y = -0.81, -0.17"
+[1] "Printed correlation af x,y = 0.04, -0.50"
+[1] "Printed correlation af x,y = 2.03, 0.73"
+[1] "Printed correlation af x,y = -0.81, -0.17"
+[1] "Printed correlation af x,y = 0.04, -0.50"
+[1] "Printed correlation af x,y = 2.03, 0.73"
+[1] "Printed correlation af x,y = -0.10, 0.42"
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_p_neustab cor_s_stab  cor_s_neu  cor_s_dest cor_s_neustab  slope    inter  frac_act RSS  scan"
+[1] " RESULT_VAL   0.459   -1.560    0.000  1.000    0.941    0.876     0.963    0.996  0.950 0.731    0.978  1.000   0.924   0.862  0.954    0.691     -0.121    0.010 1295.576   65.000 "
+[1] "Using scanning varianble = 70"
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "FN rate: 70"
+[1] "Misclassified 3871 active and 15 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.10, 0.49"
+null device 
+          1 
+[1] "Printed correlation af x,y = -0.81, -0.05"
+[1] "Printed correlation af x,y = 0.04, -0.47"
+[1] "Printed correlation af x,y = 2.03, 0.69"
+[1] "Printed correlation af x,y = -0.81, -0.05"
+[1] "Printed correlation af x,y = 0.04, -0.47"
+[1] "Printed correlation af x,y = 2.03, 0.69"
+[1] "Printed correlation af x,y = -0.10, 0.49"
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_p_neustab cor_s_stab  cor_s_neu  cor_s_dest cor_s_neustab  slope    inter  frac_act RSS  scan"
+[1] " RESULT_VAL   0.407   -1.697    0.000  1.000    0.928    0.765     0.892    0.919  0.964 0.625    0.982  0.500   0.941   0.830  0.963    0.669     -0.093    0.010 1346.905   70.000 "
+[1] "Using scanning varianble = 75"
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "FN rate: 75"
+[1] "Misclassified 4977 active and 15 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.10, 0.47"
+null device 
+          1 
+[1] "Printed correlation af x,y = -0.81, 0.05"
+[1] "Printed correlation af x,y = 0.04, -0.44"
+[1] "Printed correlation af x,y = 2.03, 0.55"
+[1] "Printed correlation af x,y = -0.81, 0.05"
+[1] "Printed correlation af x,y = 0.04, -0.44"
+[1] "Printed correlation af x,y = 2.03, 0.55"
+[1] "Printed correlation af x,y = -0.10, 0.47"
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_p_neustab cor_s_stab  cor_s_neu  cor_s_dest cor_s_neustab  slope    inter  frac_act RSS  scan"
+[1] " RESULT_VAL   0.463   -1.880    0.000  1.000    0.927    0.937     0.937    0.894  0.904 0.767    0.958  0.500   0.906   0.830  0.942    0.522     -0.008    0.010 1398.755   75.000 "
+[1] "Using scanning varianble = 80"
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "FN rate: 80"
+[1] "Misclassified 6636 active and 15 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.10, 0.55"
+null device 
+          1 
+[1] "Printed correlation af x,y = -0.81, 0.32"
+[1] "Printed correlation af x,y = 0.04, -0.44"
+[1] "Printed correlation af x,y = 2.03, 0.47"
+[1] "Printed correlation af x,y = -0.81, 0.32"
+[1] "Printed correlation af x,y = 0.04, -0.44"
+[1] "Printed correlation af x,y = 2.03, 0.47"
+[1] "Printed correlation af x,y = -0.10, 0.55"
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_p_neustab cor_s_stab  cor_s_neu  cor_s_dest cor_s_neustab  slope    inter  frac_act RSS  scan"
+[1] " RESULT_VAL   0.385   -2.145    0.000  1.000    0.869    0.888     0.888    -0.893  0.623 0.658    0.788  -0.500   0.662   0.698  0.793    0.461     0.062    0.010 1461.948   80.000 "
+[1] "Using scanning varianble = 85"
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "FN rate: 85"
+[1] "Misclassified 9401 active and 15 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.10, 0.47"
+null device 
+          1 
+[1] "Printed correlation af x,y = -0.81, 0.34"
+[1] "Printed correlation af x,y = 0.04, -0.42"
+[1] "Printed correlation af x,y = 2.03, 0.43"
+[1] "Printed correlation af x,y = -0.81, 0.34"
+[1] "Printed correlation af x,y = 0.04, -0.42"
+[1] "Printed correlation af x,y = 2.03, 0.43"
+[1] "Printed correlation af x,y = -0.10, 0.47"
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_p_neustab cor_s_stab  cor_s_neu  cor_s_dest cor_s_neustab  slope    inter  frac_act RSS  scan"
+[1] " RESULT_VAL   0.604   -2.530    0.000  1.000    0.811    0.920     0.920    -0.805  0.741 0.655    0.823  -1.000   0.732   0.558  0.833    0.407     0.056    0.010 1508.266   85.000 "
+[1] "Using scanning varianble = 90"
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "FN rate: 90"
+[1] "Misclassified 14931 active and 14 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.10, 0.17"
+null device 
+          1 
+[1] "Printed correlation af x,y = -0.81, 0.03"
+[1] "Printed correlation af x,y = 0.04, -0.33"
+[1] "Printed correlation af x,y = 2.03, 0.40"
+[1] "Printed correlation af x,y = -0.81, 0.03"
+[1] "Printed correlation af x,y = 0.04, -0.33"
+[1] "Printed correlation af x,y = 2.03, 0.40"
+[1] "Printed correlation af x,y = -0.10, 0.17"
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_p_neustab cor_s_stab  cor_s_neu  cor_s_dest cor_s_neustab  slope    inter  frac_act RSS  scan"
+[1] " RESULT_VAL   1.202   -3.086    0.000  1.000    0.913    0.934     0.934    0.568  0.606 0.825    0.819  0.500   0.671   0.801  0.793    0.365     -0.075    0.010 1566.137   90.000 "
+[1] "Using scanning varianble = 95"
+[1] "Generate variants"
+[1] "Calculate pair couplings per variant"
+[1] "Couplings are off"
+[1] "Calculate variant stabilities"
+null device 
+          1 
+[1] "Calculate variant brightness from stabilities"
+[1] "Genearte Cauchy and misclassification noise on brightness level"
+[1] "FN rate: 95"
+[1] "Misclassified 31521 active and 13 inactive variants"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "GMMA has 76 subst., synth. data 76 subst. with 76 subst. in common"
+[1] "Printed correlation af x,y = -0.10, 0.30"
+null device 
+          1 
+[1] "Printed correlation af x,y = -0.81, 0.16"
+[1] "Printed correlation af x,y = 0.04, -0.23"
+[1] "Printed correlation af x,y = 2.03, 0.26"
+[1] "Printed correlation af x,y = -0.81, 0.16"
+[1] "Printed correlation af x,y = 0.04, -0.23"
+[1] "Printed correlation af x,y = 2.03, 0.26"
+[1] "Printed correlation af x,y = -0.10, 0.30"
+[1] " RESULT_LAB   dG_wt_fit dG_wt_true      B_D    B_max  cor_s  cor_all  cor_low  cor_p_stab  cor_p_neu  cor_p_dest cor_p_neustab cor_s_stab  cor_s_neu  cor_s_dest cor_s_neustab  slope    inter  frac_act RSS  scan"
+[1] " RESULT_VAL   1.304   -3.980    0.000  1.000    0.874    0.906     0.906    -0.704  0.826 0.748    0.797  -0.500   0.865   0.705  0.874    0.257     0.025    0.010 1615.721   95.000 "

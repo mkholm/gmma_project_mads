@@ -1,0 +1,9 @@
+[1] "Will estimate dG_wt"
+[1] "Read gmma_structured.rda"
+[1] "Signal below B_mid=0.50 considered inactive, the rest are considered active"
+[1] "Initialize 76 ddG's with normal distribution mean 0.00 and sd 0.50"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-1.0719 -0.3126  0.0423  0.0153  0.3178  0.9940 
+[1] "Initialize B_D 0.00 and B_max 1.00 from median of inactive and active"
+[1] "Initialize dG_wt 0.00"
+[1] "Dumped gmma_fit_individual.rda"

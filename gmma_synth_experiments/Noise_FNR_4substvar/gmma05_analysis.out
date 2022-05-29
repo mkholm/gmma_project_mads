@@ -1,0 +1,125 @@
+[1] "Read gmma_fit_global.rda"
+[1] "Base line initial fit: dG_wt   0.00, B_max   1.00, B_D   0.00"
+[1] "Base line global fit : dG_wt   1.30, B_max   1.00, B_D   0.00"
+[1] "=== GMMA Settings ==="
+$taa_letters
+[1] 1
+
+$RT
+[1] 0.5955
+
+$RT_unit
+[1] "kcal/mol (at 300 K)"
+
+$dG_wt_input
+[1] NA
+
+$active_cut
+[1] 0.5
+
+$inactive_cut
+[1] 0.5
+
+$init_mean
+[1] 0
+
+$init_sd
+[1] 0.5
+
+$glob_ddG_max
+[1] 10
+
+$glob_ddG_min
+[1] -5
+
+[1] "Global fit result (1): Relative error in the sum of squares is at most `ftol'."
+[1] "Estimated 77 parameters from 160000 data points (159923 degrees of freedom)"
+[1] "Sum-of-squares 1615.72 in 12 iterations"
+[1] "Chi-squared: Inf (using WT uncertainty 0.00)"
+[1] "Reduced chi-squared: Inf"
+null device 
+          1 
+[1] "Reciprocal condition number of Hessian: 0.00031"
+[1] "If this is very low, consider reparamerizing some variables to avoid covarying parameters"
+[1] "Std. error of global parameters"
+$dG_wt
+[1] 0.4698
+
+[1] "Substitutions not in global fit: 0"
+[1] "data-to-parameters factor: 1.000 (should be close to one but smaller)"
+[1] "Calculate data subset uncertainties"
+[1] "Estimating stability and std errors for 0 substitutions with gmma=='hanging'"
+[1] "Total estimated ddG's 76 out of 76. Total missing 0"
+[1] "Total estimated std. errors 76 out of 76. Total missing 0"
+null device 
+          1 
+[1] "Discarding 0 substitutions (out of 76) with high uncertainties"
+[1] "Top25 substitutions"
+     i resi taa  obs signal note active inactive init_m init_ddG gmma gmma_reparam ddG_glob     se stderr_meas stderr_meas_est stderr_fit stderr_fit_est suberr  obserr stderr_subfit_est rank
+A1W 18    1   W 8000      0         242     7758   none -0.05814  use           NA -0.15270 0.3227           0               0    0.03243      0.0003626 1.6954 0.04472         0.0006148    1
+A1Y 19    1   Y 8000      0         229     7771   none  0.35680  use           NA -0.15211 0.3228           0               0    0.03244      0.0003627 1.6474 0.04472         0.0005975    2
+V2H 26    2   H 8000      0         206     7794   none  0.03190  use           NA -0.14001 0.3250           0               0    0.03267      0.0003653 1.5595 0.04472         0.0005696    3
+T4K 66    4   K 8000      0         250     7750   none -0.50561  use           NA -0.11374 0.3112           0               0    0.03128      0.0003498 1.7242 0.04472         0.0006031    4
+V2E 23    2   E 8000      0         190     7810   none  0.18451  use           NA -0.10882 0.3312           0               0    0.03329      0.0003721 1.4983 0.04472         0.0005576    5
+V2W 37    2   W 8000      1         201     7799   none  0.99400  use           NA -0.05611 0.3427           0               0    0.03444      0.0003851 1.5488 0.04472         0.0005964    6
+A1M 10    1   M 8000      0         216     7784   none  0.17404  use           NA -0.04295 0.3458           0               0    0.03476      0.0003886 1.6089 0.04472         0.0006252    7
+T4F 62    4   F 8000      1         195     7805   none  0.31562  use           NA -0.02029 0.3309           0               0    0.03326      0.0003719 1.5239 0.04472         0.0005667    8
+S3F 43    3   F 8000      0         193     7807   none  0.58301  use           NA -0.01067 0.3348           0               0    0.03366      0.0003763 1.5166 0.04472         0.0005707    9
+T4W 75    4   W 8000      0         186     7814   none -0.07659  use           NA  0.01265 0.3390           0               0    0.03407      0.0003810 1.4896 0.04472         0.0005675   10
+V2A 20    2   A 8000      0         171     7829   none  0.04409  use           NA  0.01977 0.3621           0               0    0.03639      0.0004069 1.4304 0.04472         0.0005820   11
+A1I  7    1   I 8000      0         142     7858   none  0.31522  use           NA  0.07204 0.3777           0               0    0.03797      0.0004245 1.3028 0.04472         0.0005530   12
+V2C 21    2   C 8000      1         156     7844   none  0.10308  use           NA  0.07803 0.3796           0               0    0.03816      0.0004266 1.3684 0.04472         0.0005838   13
+S3H 45    3   H 8000      0         130     7870   none -0.19076  use           NA  0.10876 0.3679           0               0    0.03698      0.0004134 1.2438 0.04472         0.0005142   14
+S3L 48    3   L 8000      0         140     7860   none  0.17737  use           NA  0.14988 0.3816           0               0    0.03835      0.0004288 1.2958 0.04472         0.0005556   15
+S3M 49    3   M 8000      0         127     7873   none  0.53891  use           NA  0.16250 0.3860           0               0    0.03880      0.0004338 1.2330 0.04472         0.0005349   16
+S3N 50    3   N 8000      0         125     7875   none  0.15781  use           NA  0.18829 0.3955           0               0    0.03976      0.0004445 1.2247 0.04472         0.0005444   17
+A1S 15    1   S 8000      0         104     7896   none -0.86848  use           NA  0.19171 0.4215           0               0    0.04237      0.0004737 1.1163 0.04472         0.0005288   18
+A1E  3    1   E 8000      0         103     7897   none -0.69640  use           NA  0.23488 0.4405           0               0    0.04427      0.0004950 1.1131 0.04472         0.0005510   19
+S3Y 57    3   Y 8000      0          91     7909   none -0.40654  use           NA  0.23716 0.4151           0               0    0.04172      0.0004664 1.0416 0.04472         0.0004858   20
+T4L 67    4   L 8000      0          83     7917   none  0.76815  use           NA  0.28221 0.4343           0               0    0.04366      0.0004881 0.9958 0.04472         0.0004860   21
+T4A 58    4   A 8000      0          79     7921   none -1.07190  use           NA  0.30304 0.4444           0               0    0.04467      0.0004994 0.9717 0.04472         0.0004853   22
+V2F 24    2   F 8000      0          59     7941   none  0.57753  use           NA  0.32978 0.4885           0               0    0.04910      0.0005490 0.8385 0.04472         0.0004603   23
+A1D  2    1   D 8000      0          62     7938   none  0.48726  use           NA  0.33329 0.4907           0               0    0.04932      0.0005515 0.8607 0.04472         0.0004746   24
+T4V 74    4   V 8000      0          78     7922   none  0.32446  use           NA  0.33964 0.4631           0               0    0.04655      0.0005204 0.9674 0.04472         0.0005035   25
+[1] "Of 76 sig. subst., 9 (11.8%)  0 (0.0%)  67 (88.2%)  are stabilizing, neutral and destabilizing respectively."
+[1] "Method of ddG_glob vs. method of ddG_init"
+          subst$init_m
+subst$gmma none
+       use   76
+[1] "Substantial fit vs. method of ddG_init"
+     subst$init_m
+sig   none
+  sig   76
+null device 
+          1 
+[1] "Dumped residue.txt"
+[1] "Dumped subst.csv and mutant.csv"
+[1] ""
+[1] "Stabil positions (resi+2)"
+[1] ""
+[1] "PyMol notation (resi+2):"
+[1] ""
+[1] ""
+[1] "Tolerant positions (resi+2)"
+[1] ""
+[1] "PyMol notation (resi+2):"
+[1] ""
+[1] ""
+[1] "Positions with engineering potential (resi+2)"
+[1] "A3, V4, S5, T6"
+[1] "PyMol notation (resi+2):"
+[1] "3+4+5+6"
+[1] ""
+[1] "stabilizing substitution at unstable positions"
+[1] "A3W, A3Y, V4H, T6K, V4E, V4W, A3M, T6F, S5F"
+[1] "stabilizing substitution at possible unstable positions"
+[1] ""
+[1] "Effect of sig. substitutions from Gly:"
+
+   stab  destab     neu unknown 
+      0       0       0       0 
+[1] "Efect of sig. substitutions from His:"
+
+   stab  destab     neu unknown 
+      0       0       0       0 
+[1] "Post-processing done, dumped gmma_result.rda."

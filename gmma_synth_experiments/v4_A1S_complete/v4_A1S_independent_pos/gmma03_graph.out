@@ -1,0 +1,27 @@
+[1] "Read gmma_structured.rda"
+[1] "Do not exclude substitutions from graph"
+[1] "Construct graph"
+[1] "Clean disconnected and hanging nodes"
+[1] "==== Pass 1 detetion of disconnected and hanging nodes"
+[1] "Disabled 1 disconnected nodes:"
+[1] "mut00001"
+[1] "Found 0 hanging substitution node(s)"
+[1] "Disabled 0 substitutions (0 already disabled), 0 adjecent mutants (0 already disabled)"
+[1] "subst$gmma:"
+
+use 
+ 76 
+[1] "mutant$gmma:"
+
+disconnected          use 
+           1       159999 
+[1] ""
+[1] "generating neighbor mask"
+[1] "generating obs vector"
+[1] "generating neighbor cache"
+[1] "Search for pairs that always co-occur"
+[1] "Found 0 groups of fully co-occuring substitutions"
+[1] ""
+[1] "Check that all subst with gmma==use have data with gmma==use"
+integer(0)
+[1] "Saved gmma_graph.rda"
